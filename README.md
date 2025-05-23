@@ -9,4 +9,4 @@ matplotlib
 numpy 
 astropy 
 scipy 
-
+jupyter
