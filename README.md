@@ -2,7 +2,7 @@
 Group project for ASTR19
 
 # Python Version
-Python 3.10.11 #Use a virtual environment if u can
+Python 3.10.11 
 
 # Libraries used
 matplotlib
